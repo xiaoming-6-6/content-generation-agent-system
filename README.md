@@ -1,142 +1,40 @@
-# \# AI Content Factory 🚀
-
-# 
-
-# A Multi-Agent AI Content Generation System for Automated Content Production.
-
-# 
-
-# \## 🔥 Overview
-
-# 
-
-# AI Content Factory is a multi-agent system designed to automate the entire content creation pipeline, including:
-
-# 
-
-# \* Trend discovery
-
-# \* Content generation
-
-# \* Style adaptation
-
-# \* Multi-platform formatting
-
-# 
-
-# The system simulates a real-world content production workflow using collaborative AI agents.
-
-# 
-
-# \---
-
-# 
-
-# \## 🧠 Architecture
-
-# 
-
-# The system is composed of multiple specialized agents:
-
-# 
-
-# \* \*\*Trend Agent\*\* → Identifies high-potential topics
-
-# \* \*\*Content Agent\*\* → Generates multi-format content
-
-# \* \*\*Style Agent\*\* → Optimizes tone and engagement
-
-# 
-
-# Pipeline:
-
-# Trend → Content → Style → Output
-
-# 
-
-# \---
-
-# 
-
-# \## ⚙️ Features
-
-# 
-
-# \* Multi-Agent Collaboration
-
-# \* Automated Content Pipeline
-
-# \* Multi-platform Content Generation (Xiaohongshu / Short Video / Blog)
-
-# \* High-frequency generation (token-intensive workloads)
-
-# 
-
-# \---
-
-# 
-
-# \## 🚀 Getting Started
-
-# 
-
-# ```bash
-
-# pip install openai python-dotenv
-
-# python main.py
-
-# ```
-
-# 
-
-# \---
-
-# 
-
-# \## 📈 Use Cases
-
-# 
-
-# \* Content creators (batch content production)
-
-# \* Marketing automation
-
-# \* SEO content generation
-
-# 
-
-# \---
-
-# 
-
-# \## 🔮 Future Work
-
-# 
-
-# \* Multi-agent coordination optimization
-
-# \* Integration with external trend APIs
-
-# \* Automated publishing system
-
-# \* Web-based UI dashboard
-
-# 
-
-# \---
-
-# 
-
-# \## 🧩 Tech Stack
-
-# 
-
-# \* Python
-
-# \* OpenAI API
-
-# \* Multi-Agent Design Pattern
-
-
-
+AI 自动化内容创作
+概览
+AI 内容工厂是一个多智能体系统，旨在自动化整个内容创作流程，包括：
+
+趋势发现
+内容生成
+风格适配
+多平台排版
+该系统模拟真实的内容生产工作流，利用协作型 AI 智能体完成任务。
+
+架构
+系统由多个专职智能体组成：
+
+趋势智能体 → 识别高潜力话题
+内容智能体 → 生成多格式内容
+风格智能体 → 优化语调与互动性
+流水线：趋势 → 内容 → 风格 → 输出
+
+特性
+多智能体协作
+自动化内容流水线
+多平台内容生成（小红书 / 短视频 / 博客）
+高频生成（代价密集型工作负载）
+快速开始
+pip install openai python-dotenv
+python main.py
+使用场景
+内容创作者（批量内容生产）
+营销自动化
+SEO 内容生成
+未来工作
+多智能体协同优化
+与外部趋势 API 集成
+自动化发布系统
+基于网页的 UI 仪表盘
+
+技术栈
+Python
+OpenAI API
+多智能体设计模式
